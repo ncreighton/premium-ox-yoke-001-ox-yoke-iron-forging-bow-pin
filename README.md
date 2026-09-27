@@ -1,0 +1,2 @@
+# premium-ox-yoke-001-ox-yoke-iron-forging-bow-pin
+Tired of losing track of your bow pin dimensions or mixing up heat-treating steps for yoke irons? This Notion template turns workshop chaos into a repeatable forging system.  Stop wasting material on misaligned pins and cracked iron. This template gives you a structured workflow for every stage of ox yoke forging—from material selection to final as
